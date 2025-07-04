@@ -36,6 +36,16 @@ Tools: Python (pandas, seaborn, matplotlib)
 - The distribution of country populations is heavily right-skewed, with a small number of countries (e.g., China, India) accounting for a significant proportion of the total global population
 - Density and Growth Rate vary widely.
 
+### Bivariate 
+- Population vs. Area: The correlation is weak (around 0.45). Having a large land area does not necessarily mean a country has a large population.
+- Population vs. Density: There is no strong pattern here. Many small countries can be extremely crowded while large ones can be sparsely populated.
+- Population vs. Growth Rate: The correlation is close to zero. Some large countries are still growing quickly, while others have stable or even declining populations.
+- Density vs. Growth Rate: Countries with high population density can still experience rapid growth, which may increase pressure on resources and infrastructure.
+- Area vs. Density: There is a slight negative trend. Larger countries tend to have lower population density on average.
+
+
+
+
 
 
 
