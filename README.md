@@ -18,3 +18,14 @@ Country:
 Continent:
 - Name
 - Aggregated metrics (mean, median, trends)
+
+
+## Project Overview
+Dataset: world_population.csv
+
+Time Period: 1970–2022
+
+Key Columns: Country, Continent, Population (multiple years), Area, Density, Growth Rate
+
+Tools: Python (pandas, seaborn, matplotlib)
+
