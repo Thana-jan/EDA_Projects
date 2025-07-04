@@ -31,7 +31,7 @@ Tools: Python (pandas, seaborn, matplotlib)
 
 ## Analysis Highlights
 
-###Univariate
+### Univariate
 - Population, Area, Density, and Growth Rate distributions were plotted.
 - The distribution of country populations is heavily right-skewed, with a small number of countries (e.g., China, India) accounting for a significant proportion of the total global population
 - Density and Growth Rate vary widely.
